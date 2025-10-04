@@ -1,2 +1,2 @@
 # terraform
-repository to manage terraform resources while preparation for certification
+repository to manage terraform resources while preparating for certification
